@@ -104,7 +104,7 @@
 	/*--/ Testimonials owl /--*/
 	$('#testimonial-mf').owlCarousel({
 		margin: 20,
-		autoplay: true,
+		autoplay: false,
 		autoplayTimeout: 10000,
 		autoplayHoverPause: true,
 		responsive: {
