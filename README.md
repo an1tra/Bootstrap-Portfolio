@@ -45,7 +45,8 @@ git clone https://github.com/an1tra/Bootstrap-Portfolio.git
 ```
 7. Press Enter. Your local clone will be created.
 
-To view this application you will need to navigate into the index.html file and left-click to "View in Default Browser". 
+To view this application you will need to navigate into the index.html file and left-click to "View in Default Browser". Or, see the 
+project link listed below.
 
 
 <!-- USAGE EXAMPLES -->
