@@ -861,6 +861,11 @@ body {
     border-radius: 50%;
     line-height: 1.6;
   }
+
+  .sm-picture {
+    width: 200px;
+    height: 200px;
+  }
   
   /*======================================
   //--//-->   BLOG
