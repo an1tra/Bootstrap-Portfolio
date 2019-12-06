@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/25800122/70288447-bc067480-179f-11ea-9e8e-7376fb172ea5.png)
 
-A portfolio page built using the Bootstrap CSS framework template made by BootstrapMade.
+A portfolio page built using a Bootstrap CSS framework template made by BootstrapMade.
 
 ### Built With
 * [HTML5](https://html.com/)
